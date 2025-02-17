@@ -14,6 +14,7 @@ To install the required libraries, run:
 
 ```bash
 pip install pandas numpy matplotlib seaborn streamlit
+```
 
 # How to Run
 
