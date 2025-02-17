@@ -45,6 +45,7 @@ The input data should be in CSV format with the following columns:
 gender,race,received_callback,job_req_education,job_req_min_experience,job_req_computer,college_degree,years_experience,computer_skills,resume_quality
 male,white,1,high,5,advanced,yes,3,yes,high
 female,black,0,medium,3,intermediate,no,1,yes,medium
+```
 
 # Features
 
